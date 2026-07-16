@@ -91,22 +91,27 @@ in your browser.
 
 ## 📸 Screenshots
 
-### Login Page
+### 🔐 Login Page
 
-(Add Screenshot Here)
+![Login Page](screenshots/3eb9bacd-ea9e-4fe7-becf-961b8caf1c65.png)
 
-### Home Page
+---
 
-(Add Screenshot Here)
+### 🏠 Home Page
 
-### Movies
+![Home Page](screenshots/67332736-449d-40bc-bd87-60f9175aab2a.png)
 
-(Add Screenshot Here)
+---
 
-### TV Shows
+### 🎬 Movies
 
-(Add Screenshot Here)
+![Movies](screenshots/4dd7f08e-10e4-4d30-832c-bcf4c3cce95d.png)
 
+---
+
+### 📺 TV Shows
+
+![TV Shows](screenshots/addbee1b-008a-476d-9e9f-2f581c189017.png)
 ---
 
 ## 👨‍💻 Developer
